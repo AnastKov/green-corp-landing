@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.style{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.container{
+    width: 20%;
+    height: 200px;
+    background-color: bisque;  
+}
+.LoveContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container div{
+    width: max-content;
+}
